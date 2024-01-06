@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Beginner Programmer <br>💻 Beginner Web Developer <br><br><br>📖 Student 
+💻 Beginner Programmer <br>💻 Beginner Web Developer <br> 📖 Student 
 
 
 ## 🌐 Socials:
